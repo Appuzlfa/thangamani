@@ -1,15 +1,15 @@
 
 <div align="center">
-  <img border-radius: 15px src="Thangamani.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="Animegirl.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="thangamani" src="https://img.shields.io/badge/thangamani-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="barrozbot" src="https://img.shields.io/badge/barrozbot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Appuzlfa"><img title="Author" src="https://img.shields.io/badge/Author-Appuzlfa/thangamani?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/barrozLFA"><img title="Author" src="https://img.shields.io/badge/Author-barrozLFA/barrozbot?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Appuzlfa">Appuzlfa</a> to make it public
+Project created by <a href="https://github.com/barrozLFA">barrozLFA</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/Appuzlfa">Appuzlfa</a> to make it
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Appuzlfa/thangamani">
-    <img src="https://img.shields.io/github/repo-size/Appuzlfa/thangamani?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/barrozLFA/barrozbot">
+    <img src="https://img.shields.io/github/repo-size/barrozLFA/barrozbot?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Appuzlfa/followers"><img title="Followers" src="https://img.shields.io/github/followers/Appuzlfa?color=blue&style=flat-square"></a>
-<a href="https://github.com/Appuzlfa/thangamani/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Appuzlfa/thangamani?color=blue&style=flat-square"></a>
-<a href="https://github.com/Appuzlfa/thangamani/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Appuzlfa/thangamani?color=blue&style=flat-square"></a>
-<a href="https://github.com/Appuzlfa/thangamani/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Appuzlfa/thangamani?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/barrozLFA/followers"><img title="Followers" src="https://img.shields.io/github/followers/barrozLFA?color=blue&style=flat-square"></a>
+<a href="https://github.com/barrozLFA/barrozbot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/barrozLFA/barrozbot?color=blue&style=flat-square"></a>
+<a href="https://github.com/barrozLFA/barrozbot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/barrozLFA/barrozbot?color=blue&style=flat-square"></a>
+<a href="https://github.com/barrozLFA/barrozbot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/barrozLFA/barrozbot?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -36,7 +36,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Appuzlfa&repo=PublicBot&theme=nightowl)](https://github.com/Appuzlfa/PublicBot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barrozbot&repo=PublicBot&theme=nightowl)](https://github.com/barrozLFA/PublicBot)
   </div>
     
 ## Setup
@@ -61,8 +61,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Appuzlfa/thangamani
-$ cd thangamani
+$ git clone https://github.com/barrozLFA/barrozbot
+$ cd barrozbot
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -71,8 +71,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Appuzlfa/thangamani
-$ cd thangamani
+$ git clone https://github.com/barrozLFA/barrozbot
+$ cd barrozbot
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -92,9 +92,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Appuzlfa](https://github.com/Thangamani.jpg?size=100)](https://github.com/Appuzlfa) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![barrozLFA](https://github.com/Animegirl.jpg?size=100)](https://github.com/barrozLFA) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[Appuzlfa](https://github.com/Appuzlfa)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
+[barrozLFA](https://github.com/barrozLFA)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
